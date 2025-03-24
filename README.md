@@ -29,11 +29,17 @@ Chromeで chrome://extensions/ にアクセスします。
 
 
 AutoCopyChromeExtension/
+
 ├── background.js
+
 ├── content.js
+
 ├── icon.png
+
 ├── manifest.json
+
 ├── popup.html
+
 └── popup.js
 
 
