@@ -27,9 +27,7 @@ Chromeで chrome://extensions/ にアクセスします。
 
 🛠 プロジェクト構成
 
-css
-コピーする
-編集する
+
 AutoCopyChromeExtension/
 ├── background.js
 ├── content.js
